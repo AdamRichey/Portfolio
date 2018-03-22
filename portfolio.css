@@ -1,0 +1,58 @@
+#header{
+    display:block;
+}
+#wrapper{
+    background-color: blue;
+}
+h1{
+    display:inline-block;
+}
+h2{
+    padding-left: 290px;
+    display:inline-block;
+}
+#img{
+    display:inline-block;
+}
+#about{
+    vertical-align: top;
+    display:inline-block;
+    height:264px;
+    width:500px;
+}
+#middle{
+    display:block;
+}
+#mode{
+    margin: 10px 5px 10px 5px;
+    vertical-align: top;
+    display:inline-block;
+    height: 480px;
+    width: 275px;
+}
+#mode p{
+   padding-bottom: 54px;
+}
+#family{
+    margin: 10px 5px 10px 5px;
+    vertical-align: top;
+    display:inline-block;
+    height: 480px;
+    width: 275px;
+}
+#family p{
+    padding-bottom: 36px;
+}
+#eleven{
+    margin: 10px 5px 10px 5px;
+    vertical-align: top;
+    display:inline-block;
+    height: 480px;
+    width: 275px;
+}
+h3{
+    background: linear-gradient(#a5a4ab, #888694, #a5a4ab);
+}
+h4{
+    background: linear-gradient(#a5a4ab, #888694, #a5a4ab);
+}

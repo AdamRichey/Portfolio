@@ -1,8 +1,13 @@
-#header{
-    display:block;
-}
+
 #wrapper{
-    background-color: blue;
+    padding: 10px 10px 10px 10px;
+    height: 1000px;
+    width: 1000px;
+    background: radial-gradient(#6f5964, #1d0d11 );
+}
+#header{
+    background-color:#f7f7f7;
+    height:75px;
 }
 h1{
     display:inline-block;
@@ -15,10 +20,19 @@ h2{
     display:inline-block;
 }
 #about{
+    background-color: white;
     vertical-align: top;
     display:inline-block;
     height:264px;
     width:500px;
+    background: linear-gradient(to right,#fefdfe , #e2d6e1);
+}
+#aboutgrey{
+    color: white;
+    height: 40px;
+    background: linear-gradient(#a5a4ab, #888694, #a5a4ab);
+    margin:0px 0px 0px 0px;
+    padding-top: 10px;
 }
 #middle{
     display:block;
@@ -29,9 +43,18 @@ h2{
     display:inline-block;
     height: 480px;
     width: 275px;
+    background: linear-gradient(to right,#fefdfe , #e2d6e1)
 }
 #mode p{
    padding-bottom: 54px;
+}
+#mode input{
+    display: block;
+    margin: 0px 68px 0px 68px;
+    background-color: #407d61;
+    color: white;
+    border-radius:10px;
+    padding: 10px 30px 10px 30px
 }
 #family{
     margin: 10px 5px 10px 5px;
@@ -39,9 +62,18 @@ h2{
     display:inline-block;
     height: 480px;
     width: 275px;
+    background: linear-gradient(to right,#fefdfe , #e2d6e1)
 }
 #family p{
     padding-bottom: 36px;
+}
+#family input{
+    display: block;
+    margin: 0px 68px 0px 68px;
+    background-color: #407d61;
+    color: white;
+    border-radius:10px;
+    padding: 10px 30px 10px 30px
 }
 #eleven{
     margin: 10px 5px 10px 5px;
@@ -49,9 +81,21 @@ h2{
     display:inline-block;
     height: 480px;
     width: 275px;
+    background: linear-gradient(to right,#fefdfe , #e2d6e1)
+}
+#eleven input{
+    display: block;
+    margin: 0px 68px 0px 68px;
+    background-color: #407d61;
+    color: white;
+    border-radius:10px;
+    padding: 10px 30px 10px 30px
 }
 h3{
+    display:block;
     background: linear-gradient(#a5a4ab, #888694, #a5a4ab);
+    margin-top: 0px;
+    color: white
 }
 h4{
     background: linear-gradient(#a5a4ab, #888694, #a5a4ab);
